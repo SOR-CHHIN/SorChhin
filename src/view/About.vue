@@ -10,7 +10,7 @@
         <!-- Image Part -->
         <div class="lg:w-2/5 flex justify-center">
           <div class="relative">
-            <div class="w-72 h-72 bg-blue-500 rounded-full opacity-20 absolute -z-10 -bottom-4 -right-4"></div>
+            <div class="w-72 h-72 opacity-20 absolute -z-10 -bottom-4 -right-4"></div>
             <img :src="aboutMe.imageSrc" :alt="aboutMe.name" class="w-72 h-72 object-cover rounded-xl shadow-xl">
           </div>
         </div>
@@ -36,7 +36,7 @@
 
           <!-- Buttons -->
           <div class="flex flex-wrap gap-4">
-            <router-link to="/contact"
+            <router-link to="/projects"
               class="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-full font-medium transition-colors duration-300">
               View Projects
             </router-link>
@@ -59,7 +59,7 @@ const aboutMe = {
   title: "Web Developer & UI/UX Designer",
   description: "Get to know more about my background, skills, and experience",
   intro: "I am a second-year student at Passerelles Numériques Cambodia (PNC). I am qualified as a WEP intern, with experience in back-end, front-end, and website design projects completed during my studies. I'm passionate about creating user-friendly web solutions and am seeking internship opportunities to grow my skills.",
-  imageSrc: "../src/assets/images/cvimg.png",
+  imageSrc: "../public/images/cvimg.png",
   personalInfoLeft: {
     Name: "Sor Chhin",
     Email: "sor.chhin@student.passerellesnumeriques.org",
