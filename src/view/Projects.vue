@@ -54,7 +54,7 @@ const projects = [
   {
     title: "POS System",
     description: "A web-based Point of Sale (POS) system designed for small businesses to manage sales, inventory, and customer data efficiently. Built with PHP, Bootstrap, HTML, CSS, JavaScript, Jira, and MySQL.",
-    image: "../public/images/pos.png",
+    image: "/images/pos.png",   // ✅ fixed
     languages: ["PHP", "Bootstrap", "HTML", "CSS", "JavaScript","Jira", "MySQL"],
     Demo: "",
     Code: "https://github.com/sinhpp/VC1-POS_System",
@@ -62,7 +62,7 @@ const projects = [
   {
     title: "Note Taker App",
     description: "A web application that allows users to write, save, and delete notes for personal use. This app is built with JavaScript, Bootstrap, HTML, and CSS.",
-    image: "../public/images/note.png",
+    image: "/images/note.png",   // ✅ fixed
     languages: ["JavaScript", "Bootstrap", "CSS", "HTML"],
     Demo: "https://note-taker-app-group5.netlify.app/",
     Code: "https://github.com/Sokleap-Seng/project-Note-Taker-G5",
@@ -70,7 +70,7 @@ const projects = [
   {
     title: "Clinic Services",
     description: " A responsive website for a clinic that provides information about services, doctors, and appointment booking using HTML, CSS, and SASS.",
-    image: "../public/images/clinic.png",
+    image: "/images/clinic.png",   // ✅ fixed
     languages: ["HTML", "CSS", "SASS"],
     Demo: "https://clinic-service-a6.netlify.app/",
     Code: "https://github.com/darinhoy/clinic-service-A6",
@@ -78,27 +78,26 @@ const projects = [
   {
     title: "School Management System",
     description: "To simplify and organize school operations by managing relationships between students, teachers, subjects, and classes using OOP in TypeScript.",
-    image: "../public/images/oop.png",
+    image: "/images/oop.png",   // ✅ fixed
     languages: ["OOP(Tyscript)", "GitHub"],
-    // Demo: "https://clinic-service-a6.netlify.app/",
     Code: "https://github.com/SOR-CHHIN/School-management-System-A4",
   },
   {
     title: "AUTOMATED DOCUMENT GENERATION",
     description: "A project aimed at automating the process of generating documents using Python. It helps to save time and reduce errors associated with manual document creation.",
-    image: "../public/images/Automation.png",
+    image: "/images/Automation.png",   // ✅ fixed
     languages: ["Algorithm (Basic Python)", "GitHub"],
-    // Demo: "https://clinic-service-a6.netlify.app/",
     Code: "https://github.com/lymengmeng09/G12_AUTOMATED-DOCUMENT-GENERATION-",
   },
   {
     title: "PNC student  association club brochure",
-    description: " To design a visually appealing brochure for the PNC Student Association Club using Figma, showcasing the club’s activities and information effectively",
-    image: "../public/images/AS.jpg",
+    description: "To design a visually appealing brochure for the PNC Student Association Club using Figma, showcasing the club’s activities and information effectively",
+    image: "/images/AS.jpg",   // ✅ fixed
     languages: ["Figma"],
-     Demo: "https://www.figma.com/proto/Z2T3wubUojkGNHd8RwBZTt/Design?node-id=2003-888&t=IU9MFUxtEGG3SZRD-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2003%3A472",
+    Demo: "https://www.figma.com/proto/Z2T3wubUojkGNHd8RwBZTt/Design?node-id=2003-888&t=IU9MFUxtEGG3SZRD-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2003%3A472",
   }
 ];
+
 </script>
 
 <style scoped>

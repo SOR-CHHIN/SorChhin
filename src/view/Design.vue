@@ -44,13 +44,13 @@
 import { ref, onMounted, onUnmounted } from "vue";
 
 const slides = [
-  "../public/images/D1.png",
-  "../public/images/D2.png",
-  "../public/images/D3.jpg",
-  "../public/images/D7.png",
-  "../public/images/D4.jpg",
-  "../public/images/D6.jpg",
-  "../public/images/D5.jpg"
+  "/images/D1.png",
+  "/images/D2.png",
+  "/images/D3.jpg",
+  "/images/D7.png",
+  "/images/D4.jpg",
+  "/images/D6.jpg",
+  "/images/D5.jpg"
 ];
 
 const currentSlide = ref(0);

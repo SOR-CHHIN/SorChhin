@@ -59,7 +59,7 @@ const aboutMe = {
   title: "Web Developer & UI/UX Designer",
   description: "Get to know more about my background, skills, and experience",
   intro: "I am a second-year student at Passerelles Numériques Cambodia (PNC). I am qualified as a WEP intern, with experience in back-end, front-end, and website design projects completed during my studies. I'm passionate about creating user-friendly web solutions and am seeking internship opportunities to grow my skills.",
-  imageSrc: "../public/images/cvimg.png",
+  imageSrc: "/images/cvimg.png",
   personalInfoLeft: {
     Name: "Sor Chhin",
     Email: "sor.chhin@student.passerellesnumeriques.org",

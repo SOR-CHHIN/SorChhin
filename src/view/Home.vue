@@ -65,7 +65,7 @@ const aboutMe = {
   title: "Web Developer and UX/UI Designer",
   description:
     "I am eager to challenge myself in a new environment where I can continue learning, growing, and applying my skills through hands-on projects.",
-  cvLink: "../pulic/images/Sor.Chhin.pdf", // Replace with actual CV file path
-  imageSrc: "../public/images/me.png",
+  cvLink: "/images/Sor.Chhin.pdf", // Replace with actual CV file path
+  imageSrc: "/images/me.png",
 };
 </script>
