@@ -50,7 +50,8 @@ const slides = [
   "/images/D7.png",
   "/images/D4.jpg",
   "/images/D6.jpg",
-  "/images/D5.jpg"
+  "/images/D5.jpg",
+  "/images/D8.png",
 ];
 
 const currentSlide = ref(0);
