@@ -28,7 +28,7 @@ export default {
       socialLinks: [
         { name: "Facebook", url: "https://www.facebook.com/chhin.sreysor.52/", icon: "fab fa-facebook-f" },
         { name: "Telegram", url: "https://t.me/SOR_CHHIN", icon: "fab fa-telegram" },
-        { name: "Instagram", url: "https://instagram.com", icon: "fab fa-instagram" },
+        { name: "Instagram", url: "https://www.instagram.com/chhinsreysor/", icon: "fab fa-instagram" },
         { name: "LinkedIn", url: "https://www.linkedin.com/in/sor-chhin-94112a345/", icon: "fab fa-linkedin-in" },
         { name: "Github", url: "https://github.com/SOR-CHHIN", icon: "fab fa-github" },
       ],

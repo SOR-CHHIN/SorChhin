@@ -35,8 +35,9 @@ const skills = [
   { name: "Vue.js", proficiency: 70 },
   { name: "UI/UX Design", proficiency:  60},
   { name: "Tailwind CSS", proficiency: 70 },
-  { name: "React", proficiency: 20 },
+  // { name: "React", proficiency: 20 },
   { name: "Laravel", proficiency: 65 },
+  { name: "OOP(TypeScript)", proficiency: 60 },
   { name: "PHP", proficiency: 60 },
   { name: "Node js", proficiency: 60 },
 ];
