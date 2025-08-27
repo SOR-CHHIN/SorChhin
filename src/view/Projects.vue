@@ -52,6 +52,14 @@
 <script setup>
 const projects = [
   {
+       title: "Library Management System",
+    description: "A web-based Library Management System that allows users to manage book inventory, track borrowings, and handle user accounts. Built with Node.js, Vue.js,Tailwind, HTML, CSS, JavaScript, Jira, Git, GitHub and MySQL.",
+    image: "/images/Library.png",   // ✅ fixed
+    languages: ["PHP", "Bootstrap", "HTML", "CSS", "JavaScript","Jira", "MySQL"],
+    Demo: "",
+    Code: "https://github.com/radytrainer/library-management-system",
+  },
+  {
     title: "POS System",
     description: "A web-based Point of Sale (POS) system designed for small businesses to manage sales, inventory, and customer data efficiently. Built with PHP, Bootstrap, HTML, CSS, JavaScript, Jira, and MySQL.",
     image: "/images/pos.png",   // ✅ fixed
