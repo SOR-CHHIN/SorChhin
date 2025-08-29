@@ -4,10 +4,10 @@
       <!-- Left Content -->
       <div class="md:w-1/2 mb-10 md:mb-0" data-aos="fade-right" data-aos-duration="1200">
         <div class="text-4xl md:text-5xl lg:text-6xl font-bold mb-4" data-aos="fade-up" data-aos-duration="1200">
-          <div>Hello, it's Me</div>
+          <div>Hello, my name's</div>
           <div class="text-blue-500">{{ aboutMe.name }}</div>
           <div>
-            And I'm a <span class="text-blue-500">{{ aboutMe.title }}</span>
+            <span class="text-blue-500">{{ aboutMe.title }}</span>
           </div>
         </div>
         <p class="text-gray-400 mb-8 max-w-md" data-aos="fade-up" data-aos-delay="200">
@@ -62,10 +62,10 @@ import Design from './Design.vue';
 
 const aboutMe = {
   name: "Sor Chhin",
-  title: "Web Developer and UX/UI Designer",
+  title: "Web Developer and UX/UI Designer, Graphic Designer",
   description:
     "I am eager to challenge myself in a new environment where I can continue learning, growing, and applying my skills through hands-on projects.",
-  cvLink: "/images/Sor.Chhin_Graphic_Designer.pdf", // Replace with actual CV file path
+  cvLink: "/images/Sor.Chhin_Graphic_Design.pdf", // Replace with actual CV file path
   imageSrc: "/images/me.png",
 };
 </script>

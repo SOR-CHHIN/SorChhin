@@ -33,12 +33,13 @@ const skills = [
   { name: "HTML/CSS", proficiency: 80 },
   { name: "JavaScript", proficiency: 65 },
   { name: "Vue.js", proficiency: 70 },
+  { name: "Figma and Canvas", proficiency: 70 },
   { name: "UI/UX Design", proficiency:  60},
   { name: "Tailwind CSS", proficiency: 70 },
   // { name: "React", proficiency: 20 },
   { name: "Laravel", proficiency: 65 },
   { name: "OOP(TypeScript)", proficiency: 60 },
-  { name: "PHP", proficiency: 60 },
+  // { name: "PHP", proficiency: 60 },
   { name: "Node js", proficiency: 60 },
 ];
 </script>

@@ -77,7 +77,7 @@ const projects = [
   },
   {
     title: "Clinic Services",
-    description: " A responsive website for a clinic that provides information about services, doctors, and appointment booking using HTML, CSS, and SASS.",
+    description: "A responsive website for a clinic that provides information about services, doctors, and appointment booking. Built with HTML, CSS, and SASS.",
     image: "/images/clinic.png",   // ✅ fixed
     languages: ["HTML", "CSS", "SASS"],
     Demo: "https://clinic-service-a6.netlify.app/",
