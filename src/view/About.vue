@@ -56,7 +56,7 @@
 <script setup>
 const aboutMe = {
   name: "Sor Chhin",
-  title: "Web Developer & UI/UX Designer, Graphic Designer",
+  title: "Web Developer,UI/UX, and Graphic Designer",
   description: "Get to know more about my background, skills, and experience",
   intro: "I am a second-year student at Passerelles Numériques Cambodia (PNC). I am qualified as a WEP intern, with experience in back-end, front-end, and website design projects completed during my studies. I'm passionate about creating user-friendly web solutions, UX/UI design, Graphic design, and am seeking internship opportunities to grow my skills.",
   imageSrc: "/images/cvimg.png",
