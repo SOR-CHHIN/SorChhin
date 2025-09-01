@@ -62,7 +62,7 @@ import Design from './Design.vue';
 
 const aboutMe = {
   name: "Sor Chhin",
-  title: "Web Developer UX/UI,and Graphic Designer",
+  title: "Web Developer and UX/UI",
   description:
     "I am eager to challenge myself in a new environment where I can continue learning, growing, and applying my skills through hands-on projects.",
   cvLink: "/images/Sor.Chhin_Graphic_Design.pdf", // Replace with actual CV file path
