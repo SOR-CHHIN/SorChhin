@@ -1,5 +1,5 @@
 <template>
-  <section class="pt-32 pb-20 px-4 bg-gray-800">
+  <section class="pt-32 pb-20 px-4 bg-gray-800 m-auto">
     <div class="container mx-auto flex flex-col md:flex-row items-center">
       <!-- Left Content -->
       <div class="md:w-1/2 mb-10 md:mb-0" data-aos="fade-right" data-aos-duration="1200">
@@ -65,7 +65,7 @@ const aboutMe = {
   title: "Web Developer and UX/UI",
   description:
     "I am eager to challenge myself in a new environment where I can continue learning, growing, and applying my skills through hands-on projects.",
-  cvLink: "/images/Sor.Chhin_web_developer_intern.pdf", // Replace with actual CV file path
+  cvLink: "/images/Sor.Chhin.pdf", // Replace with actual CV file path
   imageSrc: "/images/me.png",
 };
 </script>
