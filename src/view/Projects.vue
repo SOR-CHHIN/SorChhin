@@ -55,7 +55,7 @@ const projects = [
        title: "Library Management System",
     description: "A web-based Library Management System that allows users to manage book inventory, track borrowings, and handle user accounts. Built with Node.js, Vue.js,Tailwind, HTML, CSS, JavaScript, Jira, Git, GitHub and MySQL.",
     image: "/images/Library.png",   // ✅ fixed
-    languages: ["PHP", "Bootstrap", "HTML", "CSS", "JavaScript","Jira", "MySQL"],
+    languages: ["PHP", "Tailwind", "HTML", "CSS", "JavaScript","Jira", "MySQL", "Git", "GitHub","Postman"],
     Demo: "",
     Code: "https://github.com/radytrainer/library-management-system",
   },

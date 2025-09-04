@@ -1,13 +1,15 @@
 <template>
-  <section class="pt-32 pb-20 px-4 bg-gray-800 m-auto">
+  <div class=" m-auto ">
+  <section class="pt-32 pb-20 p-20 bg-gray-800 m-auto">
     <div class="container mx-auto flex flex-col md:flex-row items-center">
       <!-- Left Content -->
       <div class="md:w-1/2 mb-10 md:mb-0" data-aos="fade-right" data-aos-duration="1200">
         <div class="text-4xl md:text-5xl lg:text-6xl font-bold mb-4" data-aos="fade-up" data-aos-duration="1200">
-          <div>Hello, my name's</div>
+          <div>Hello, my name is
+</div>
           <div class="text-blue-500">{{ aboutMe.name }}</div>
           <div>
-            <span class="text-blue-500">{{ aboutMe.title }}</span>
+            <span class="text-blue-500 text-md">{{ aboutMe.title }}</span>
           </div>
         </div>
         <p class="text-gray-400 mb-8 max-w-md" data-aos="fade-up" data-aos-delay="200">
@@ -26,7 +28,7 @@
       </div>
 
       <!-- Right Image -->
-      <div class="md:w-1/2 flex justify-center" data-aos="fade-left" data-aos-duration="1200">
+      <div class="md:w-1/2 flex justify-end" data-aos="fade-left" data-aos-duration="1200">
         <div class="relative">
           <div
             class="w-64 h-64 md:w-80 md:h-80  rounded-full opacity-20 absolute -z-10 top-6 left-6"
@@ -44,6 +46,7 @@
       </div>
     </div>
   </section>
+  </div>
 
   <!-- Other Sections with Animations -->
   <About data-aos="fade-up" data-aos-duration="1200" />
@@ -62,10 +65,10 @@ import Design from './Design.vue';
 
 const aboutMe = {
   name: "Sor Chhin",
-  title: "Web Developer and UX/UI",
+  title: "I am  looking for job opportunity ",
   description:
     "I am eager to challenge myself in a new environment where I can continue learning, growing, and applying my skills through hands-on projects.",
-  cvLink: "/images/Sor.Chhin.pdf", // Replace with actual CV file path
+  cvLink: "/images/Sor.Chhin_web_developer_intern.pdf", // Replace with actual CV file path
   imageSrc: "/images/me.png",
 };
 </script>
