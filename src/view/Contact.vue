@@ -31,7 +31,7 @@
               </div>
               <div>
                 <h4 class="font-bold">Email</h4>
-                <p class="text-gray-400">sor.chhin@student.passerellesnumeriques.org</p>
+                <p class="text-gray-400">chhinsor785@gmail.com</p>
               </div>
             </div>
           </div>

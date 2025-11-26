@@ -86,7 +86,7 @@ const projects = [
   {
     title: "School Management System",
     description: "To simplify and organize school operations by managing relationships between students, teachers, subjects, and classes using OOP in TypeScript.",
-    image: "/images/oop.png",   // ✅ fixed
+    image: "/images/oop.png",   
     languages: ["OOP(Tyscript)", "GitHub"],
     Code: "https://github.com/SOR-CHHIN/School-management-System-A4",
   },
@@ -103,6 +103,14 @@ const projects = [
     image: "/images/AS.jpg",   // ✅ fixed
     languages: ["Figma"],
     Demo: "https://www.figma.com/proto/Z2T3wubUojkGNHd8RwBZTt/Design?node-id=2003-888&t=IU9MFUxtEGG3SZRD-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2003%3A472",
+  },{
+    title: "CamIGF 2025",
+    description: "CAMIGF 2025 was created to bring together government, private sector, and civil society to discuss internet governance, raise awareness about digital rights and cybersecurity, and support Cambodia’s safe and inclusive digital development.",
+    image: "/images/camigf.png",   // ✅ fixed
+    languages: ["WordPress", "Bedrock/Sage", "Git", "GitHub","Laravel", "HTML", "CSS", "Tailwind", "JavaScript", "Docker"],
+    Demo: "https://www.cambodiaigf.kh/",
+    Code: "https://github.com/ODCambodia/camigf",
+
   }
 ];
 
